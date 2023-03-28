@@ -1,18 +1,18 @@
 [
     {
-    "name" : "Krishna",
+    "name" : "name",
     "usn" : 46,
     "dept" : "mca"
 
     },
     {
-        "name" : "Kiran",
+        "name" : "name",
         "usn" : 50,
         "dept" : "mca"
     
      },
     {
-        "name" : "Anand",
+        "name" : "name",
         "usn" : 12,
         "dept" : "mca"
     
