@@ -1,0 +1,21 @@
+[
+    {
+    "name" : "Krishna",
+    "usn" : 46,
+    "dept" : "mca"
+
+    },
+    {
+        "name" : "Kiran",
+        "usn" : 50,
+        "dept" : "mca"
+    
+     },
+    {
+        "name" : "Anand",
+        "usn" : 12,
+        "dept" : "mca"
+    
+    }
+
+]

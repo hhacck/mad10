@@ -1,0 +1,17 @@
+{
+    "name": "Program_8",
+    "short_name": "Program_8",
+    "start_url": "/start.html",
+    "display": "fullscreen",
+    "background_color": "#ffff00",
+    "description": "A simple applicationfor manifestation",
+    "orientation": "portrait-primary",
+    "theme_color":"#2196F3",
+    "icons": [
+    {
+    "src": "/icons/logo.png",
+    "sizes": "225x225",
+    "type": "image/png"
+    }
+    ]
+    }
